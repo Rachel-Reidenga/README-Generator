@@ -77,7 +77,7 @@ inquirer
         console.log(answer.license);
         console.log(answer.command);
         console.log(answer.test);
-        console.log(answer.repo);
+        console.log(answer.repo); 
         console.log(answer.contributing);
     })
 
