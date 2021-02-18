@@ -39,7 +39,7 @@ ${data.command}
 ${data.usage}
 
 ## License
-![License](${renderLicenseBadge(data.license)})
+!${renderLicenseBadge(data.license)}
 
 ### Contributing
 ${data.contributing}
