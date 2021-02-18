@@ -48,7 +48,7 @@ ${data.test}
 ${data.repo}
 
 ### Questions
-If there are any questions please contactme me ![${data.userName}](https://github.com/${data.userName})
+If there are any questions please contactme me ![${data.userName}](https://github.com/${data.userName}) [${data.userName}](mailto:${data.email})
 `;
 }
 
