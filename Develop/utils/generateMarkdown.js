@@ -19,32 +19,36 @@ function generateMarkdown(data) {
   return `# ${data.projectName}
 
 
-##Description
+## Description
 ${data.description}
 
-##Table of Contents
+
+## Table of Contents
 [Installation](#Installation)
 [Usage](#usage)
 [Credits](#contributing)
 [License](#license)
 
-##Installation
+## Installation
 ${data.command}
 
-##Usage
+## Usage
 ${data.usage}
 
-##License
+## License
 ${renderLicenseLink(data.license)}
 
-###Contributing
+### Contributing
 ${data.contributing}
 
-###Tests
+### Tests
 ${data.test}
 
-###Repo
+### Repo
 ${data.repo}
+
+### Questions
+If there are any questions please contactme me ![${data.userName}](https://github.com/${data.userName})
 `;
 }
 
