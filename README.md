@@ -24,7 +24,7 @@ A user can quickly create a professional README for a new project following the 
 
 ## Deployment
 
-Link to [Video]()
+Link to [Video](https://drive.google.com/file/d/1LenS2fgzOUtIKipgkZKa9pJjppEoIdIZ/view?usp=sharing/)
 
 Link to repo on [GitHub](https://github.com/Rachel-Reidenga/README-Generator/tree/master/)
 
