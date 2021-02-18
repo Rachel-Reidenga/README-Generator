@@ -36,7 +36,7 @@ ${data.command}
 ${data.usage}
 
 ## License
-${renderLicenseLink(data.license)}
+${renderLicenseBadge(data.license)}
 
 ### Contributing
 ${data.contributing}
@@ -48,7 +48,8 @@ ${data.test}
 ${data.repo}
 
 ### Questions
-If there are any questions please contactme me ![${data.userName}](https://github.com/${data.userName}) [${data.userName}](mailto:${data.email})
+If there are any questions please contact me ![${data.userName}](https://github.com/${data.userName}) 
+Or please feel free to email me: [${data.userName}](mailto:${data.email})
 `;
 }
 

@@ -1,8 +1,8 @@
-# 
+# Project
 
 
 ## Description
-
+Project does cool stuff
 
 
 ## Table of Contents
@@ -12,22 +12,23 @@
 [License](#license)
 
 ## Installation
-
+Instal
 
 ## Usage
-
+Used to do cool stuff
 
 ## License
-[license](#license)
+[license](https://img.shields.io/badge/license-Node.js-blue)
 
 ### Contributing
-
+Please contact me
 
 ### Tests
-
+Run Tests
 
 ### Repo
-
+See GitHub
 
 ### Questions
-If there are any questions please contactme me ![Rachel-Reidenga](https://github.com/Rachel-Reidenga) [Rachel-Reidenga](mailto:reidenga@gmail.com)
+If there are any questions please contact me ![Rachel-Reidenga](https://github.com/Rachel-Reidenga) 
+Or please feel free to email me: [Rachel-Reidenga](mailto:reidenga@gmail.com)
