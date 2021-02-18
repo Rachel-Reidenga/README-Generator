@@ -24,10 +24,10 @@ ${data.description}
 
 
 ## Table of Contents
-[Installation](#Installation)
-[Usage](#usage)
-[Credits](#contributing)
-[License](#license)
+* [Installation](#Installation)
+* [Usage](#usage)
+* [Credits](#contributing)
+* [License](#license)
 
 ## Installation
 ${data.command}
@@ -36,7 +36,7 @@ ${data.command}
 ${data.usage}
 
 ## License
-${renderLicenseBadge(data.license)}
+[![License]${renderLicenseBadge(data.license)}]
 
 ### Contributing
 ${data.contributing}
