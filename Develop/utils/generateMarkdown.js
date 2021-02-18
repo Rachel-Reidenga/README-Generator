@@ -25,8 +25,11 @@ ${data.description}
 
 ## Table of Contents
 * [Installation](#Installation)
+
 * [Usage](#usage)
+
 * [Credits](#contributing)
+
 * [License](#license)
 
 ## Installation
@@ -49,6 +52,7 @@ ${data.repo}
 
 ### Questions
 If there are any questions please contact me ![${data.userName}](https://github.com/${data.userName}) 
+
 Or please feel free to email me: [${data.userName}](mailto:${data.email})
 `;
 }
